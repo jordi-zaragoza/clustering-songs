@@ -4,7 +4,9 @@ This repository is used to recommend songs from an input name
 
 ## Overview
 
-I created a song recommender based on the features of the songs. It does the modeling of the data and assigns a cluster number to each song. It is also able to give a new cluster number to each new song. From there it can recommend other songs also depending on the 100-hot-songs list. It follows the schematic that can be found on the end of this document
+I created a song recommender based on the features of the songs. It does the modeling of the data and assigns a cluster number to each song. It is also able to give a new cluster number to each new song. From there it can recommend other songs also depending on the 100-hot-songs list. It follows the schematic that can be found on the end of this document.
+
+You can find the app on [this link](https://song-app-jzar.herokuapp.com/)
 
 
 
